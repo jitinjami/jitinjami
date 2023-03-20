@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jitinjami
-- 👀 I’m interested in my final semester of my graduate double degree program at FAU (Erlangen) and USI(Lugano)
+- 👀 I’m in my final semester of my graduate double degree program at FAU (Erlangen) and USI(Lugano)
 - 🌱 I’m currently learning how to predict Locational Margin Pricing for a given electricity grid.
 - 📫 How to reach me: jitin.jami@fau.de, jitin.jami@usi.ch
 
