@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jitinjami
-- 👀 I’m in my final semester of my graduate double degree program at FAU (Erlangen) and USI(Lugano)
-- 🌱 I’m currently learning how to predict Locational Margin Pricing for a given electricity grid.
-- 📫 How to reach me: jitin.jami@fau.de, jitin.jami@usi.ch
+- 👀 I’m a Doctoral Researcher at the Machine Learning and Data Analytics Lab (MaDLab), University of Erlangen-Nürnberg
+- 🌱 I’m currently learning how to predict segment tissues in various chronics for wound analysis.
+- 📫 How to reach me: jitin.jami [at] fau.de
 
 <!---
 jitinjami/jitinjami is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
